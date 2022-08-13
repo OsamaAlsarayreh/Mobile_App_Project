@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUSEB/AndroidStudioProjects/Project3/app/src/main/res/drawable/ic_baseline_menu_book_24.xml" value="0.1495" />
+        <entry key="..\:/Users/ASUSEB/AndroidStudioProjects/Project3/app/src/main/res/drawable/ic_baseline_music_note.xml" value="0.1495" />
+        <entry key="..\:/Users/ASUSEB/AndroidStudioProjects/Project3/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ASUSEB/AndroidStudioProjects/Project3/app/src/main/res/layout/grades.xml" value="0.25" />
+        <entry key="..\:/Users/ASUSEB/AndroidStudioProjects/Project3/app/src/main/res/menu/menumain.xml" value="0.25052083333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
